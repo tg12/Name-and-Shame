@@ -5,7 +5,7 @@ username='USERNAME_HERE'
 password='PASSWORD_HERE'
 
 #EXTRA OPTIONS
-#uagent="Script by tg12r"
+#uagent="Script by tg12"
 sleeptime=0 # seconds between requests
 touch "cookie.txt" #create a temp. cookie file
 
