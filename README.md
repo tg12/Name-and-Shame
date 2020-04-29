@@ -15,7 +15,7 @@ Check Your Twitter Feed
 
 Crontab it....For more automation
 
-Tested on Ubuntu 17.04, Should work on most similar distros
+Updated for 2020, Works on modern distros too. 
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQ6V6K8ZY6D84">
   <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
